@@ -35,13 +35,3 @@ module.exports = {
     isAnagram
 }
 
-// const result1 = isAnagram("Debit Card", "Bad Credit");
-// const result2 = isAnagram("Astronomer", "Moon starer");
-// const result3 = isAnagram("These churn air", "The Hurricanes");
-// const result4 = isAnagram("Dormitory", "Dirty rooms");
-
-// console.log(result1);
-// console.log(result2);
-// console.log(result3);
-// console.log(result4);
-

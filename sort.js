@@ -1,5 +1,5 @@
 /**
- * Problem 3: Generate a list of 100 random integers between 1 and 99.
+ * Problem 1: Generate a list of 100 random integers between 1 and 99.
   Write a program to sort this list, from lowest to highest, 
   without using a language specific method that sorts a list for you
  */
@@ -65,5 +65,3 @@ function mergeSort (randomArray) {
     createRandomArray,
     mergeSort
   }
-  // const sortedArray = mergeSort(createRandomArray(100,99,1));
-  // console.log(sortedArray);
