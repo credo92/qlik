@@ -1,0 +1,17 @@
+{
+  "name": "qlik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.0"
+  }
+}
